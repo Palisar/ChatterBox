@@ -6,6 +6,8 @@ const updateMssg = document.querySelector('.update-mssg');
 const chatRooms = document.querySelector('.chat-rooms');
 const clearChat = document.querySelector('.clear-btn');
 
+
+
 // class instances
 const chatUI = new ChatUI(chatList);
 
